@@ -10,7 +10,6 @@
 </pre>
 
   <div align="center">
-    <a href = "mailto:matossofia937@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/gmail-red" target="_blank"></a>
     <a href="https://www.linkedin.com/in/sofiamatoslessa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-0a66c2" target="_blank"></a>   
     <a href="https://instagram.com/sofiamatosl" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/instagram-white" target="_blank"></a> 
   </div>
