@@ -18,7 +18,7 @@
 </div>
 <br>
   
-![Snake animation](https://github.com/sofialessaa/sofialessaa/blob/output/github-contribution-grid-snake.svg)
+
 
 
           
