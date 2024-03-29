@@ -1,24 +1,11 @@
-<div align="center">
-  <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30%" align="right" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=35&duration=6000&pause=600&color=AE8163FF&center=true&vCenter=true&multiline=true&random=false&width=1300&height=140&lines=Hello,+Welcome+to+my+Github+profile!;I'm+Sofia%2C+a+student+of+Systems+Analysis+and+Development+%E2%9C%A9" width="70%" />
-  <br>
-  
-  <pre>
-    👾 Fatec-SJC
-    💻 Systems Analysis and Development
-    🐱 Game • Movie • Code
-  </pre>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=28&duration=6000&pause=300&color=B4B1F7FF&center=false&vCenter=false&multiline=true&random=false&width=1300&height=70&lines=print+('Hello,+welcome+to+my+Github+profile!;I'm+Sofia,+a+student+of+Systems+Analysis+and+Development+%E2%9C%A9')" width="70%"/>
+<hr>
 
-</div>   
-<br><br>
-<div>
-<a href="https://github.com/sofialessaa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialessaa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sofialessaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-  
+<code>🎓 Graduating in Systems Analysis and Development at <a href="https://fatecsjc-prd.azurewebsites.net" target="blank_">Fatec - SJC</a></code><br>
+<code>👾 Game • Movie • Code</code>
+<hr>
 
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript)](https://skillicons.dev)
+<hr>
 
-
-          
+<img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="15%" align="center" />
