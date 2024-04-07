@@ -2,7 +2,7 @@
 <hr>
 
 <code>🎓 Graduating in Systems Analysis and Development at <a href="https://fatecsjc-prd.azurewebsites.net" target="blank_">Fatec - SJC</a></code><br>
-<code>👾 Game • Movie • Code</code>
+<code>👾 Movie • Code • Game</code>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript)](https://skillicons.dev)
